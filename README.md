@@ -1,5 +1,5 @@
 <div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FDFDFDFD&width=435&lines=ooi%2C+meu+nome+%C3%A9+Anna+Luiza+%3A);seja+bem-vindo(a)!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=BD283C&width=435&lines=ooi%2C+meu+nome+%C3%A9+Anna+Luiza+%3A);seja+bem-vindo(a)!" alt="Typing SVG" /></a>
 </div>
  <br>
 <ul>
@@ -24,7 +24,7 @@
  </div>-->
   
   <br>
-  <hr>
+
    
   <br>
   <p><strong>Tecnologias:</strong></p>                          
