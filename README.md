@@ -4,8 +4,8 @@
  <br>
 <ul>
  <!--<li> programadora em contínuo aprendizado</li>-->
- <li> formada no curso técnico em informática</li>
- <li> formada em Análise e desenvolvimento de sistemas</li>
+<!-- <li> formada no curso técnico em informática</li>-->
+<!-- <li> formada em Análise e desenvolvimento de sistemas</li>-->
 </ul>
 <hr>
 
